@@ -14,9 +14,9 @@ from datetime import datetime, timezone
 # Voeg hier market slugs toe die je wil volgen
 # Vind slugs in de URL op polymarket.com (bijv. polymarket.com/event/fed-decision-january → slug = "fed-decision-january")
 MARKET_SLUGS = [
-    "fed-decision-january",
-    "trump-nominate-fed-chair", 
-    "us-strikes-iran",
+    "fed-decision-in-january",
+    "who-will-trump-nominate-as-fed-chair",
+    "us-strikes-iran-by",
 ]
 
 # Gamma API voor markt metadata
